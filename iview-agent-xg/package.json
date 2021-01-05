@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@chenfengyuan/vue-qrcode": "^1.0.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "canvas-nest.js": "^2.0.1",
     "echarts": "^4.1.0",
     "iview": "^2.14.0-rc.3",
